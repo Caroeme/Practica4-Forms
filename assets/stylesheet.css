@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+/* login */
+body {
+    background-image: url(../assets/img/fondo3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Hind', sans-serif;
+    color: rgb(248, 246, 246);
+    font-size: 18px;
+    
+    
+}
+
+#profilePic {
+    border-radius: 50%;
+    background:  radial-gradient(circle, rgb(212, 160, 192)0%, rgb(78, 120, 145) 100%);
+    box-shadow: 0px 0px 25px rgba(216, 17, 199, 0.562);
+    margin-bottom: 5px;
+
+    
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(131, 122, 122);
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+#user {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    border: none; 
+}
+
+#pass {
+    width: 250px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    border: none;
+}
+
+.button {
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    margin-top: 10px;
+    font-family: 'Hind', sans-serif;
+    font-size: 20px;
+    background-color: rgb(10, 116, 116);
+    border: none;
+    color: white;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.aligncenter {
+    align-items: center;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.justifycenter {
+    justify-content:center;
+}
+
+#forgot {
+    margin-left: 40px;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.404);
+    border-radius: 20px; 
+    width: auto;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 70px;
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
+
+#forgotPass {
+    margin-top: 20px;
+}
+
+#design {
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+
+#checkbox {
+    margin-top: 6px;
+}
+
+label {
+    color: rgb(116, 4, 73);
+}
+
+/* Register */
+
+#titulo {
+    font-size: 30px;
+   
+}
+
+
+#firstname {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    border: none;
+}
+
+#lastname {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    border: none;
+}
+
+#email {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    border: none;
+}
+
+#password {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    border: none;
+}
+
+#confpassword {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    border: none;
+}
+
+#date {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Hind', FontAwesome, sans-serif;
+    font-size: 16px;
+    border: none;
+}
+
+#terms {
+    margin-top: 6px;
+   
+}
+
+.labeluno {
+    color: rgb(116, 4, 73);
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
